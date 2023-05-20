@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing](https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing)
 
-- ⚡ Fun fact **a terrible cluster of art and tech, lol, I'm just funny.**
+- ⚡ Fun fact **I am a terrible cluster of art and tech, lol, I'm just funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
