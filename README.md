@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content:center;align-items:center;height:100vh;"><img style="max-width:100%;max-height:100%;margin:0 auto;" src="https://www.partyrama.co.uk/wp-content/uploads/2021/01/astronaut-with-flag-space-design-large-personalised-banner-10ft-x-4ft-product-image.jpg" alt="MasterHead"></div>
+[![MasterHead](https://www.partyrama.co.uk/wp-content/uploads/2021/01/astronaut-with-flag-space-design-large-personalised-banner-10ft-x-4ft-product-image.jpg)]
 
 <h1 align="center">Hello World🌈, I'm Aarti!</h1>
 <h3 align="center">A passionate developer from India</h3>
