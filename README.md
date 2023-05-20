@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarti Rai</h1>
+<h1 align="center">Hello World, I'm Aarti Rai</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width = "400" src= "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **OOPs**
 
-- 📝 I regularly write articles on [https://wordpress.com/home/journaltoprogress.wordpress.com](https://wordpress.com/home/journaltoprogress.wordpress.com)
+- 📝 I regularly write Journals on [https://wordpress.com/home/journaltoprogress.wordpress.com](https://wordpress.com/home/journaltoprogress.wordpress.com)
 
 - 💬 Ask me about **AR/VR, unity3D, Game Development**
 
-- 📫 How to reach me **aartijbm@gmail.com**
+- 📫 How to reach me? **aartijbm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing](https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing)
+- 📄 My Resume [https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing](https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing)
 
 - ⚡ Fun fact **I am a terrible cluster of art and tech, lol, I'm just funny.**
 
