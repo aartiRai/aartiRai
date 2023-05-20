@@ -10,15 +10,16 @@
 
 - 🌱 I’m currently learning **OOPs**
 
-- 📝 I regularly write Journals on [https://wordpress.com/home/journaltoprogress.wordpress.com](https://wordpress.com/home/journaltoprogress.wordpress.com)
+- 📝 I regularly write Journals on [WordPress](https://wordpress.com/home/journaltoprogress.wordpress.com)
 
 - 💬 Ask me about **AR/VR, unity3D, Game Development**
 
 - 📫 How to reach me? **aartijbm@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing](https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/drive/folders/1jxmAzbJ3bF12b8ELEnhCcL9QUOU6qIzP?usp=sharing)
 
 - ⚡ Fun fact **I am a terrible cluster of art and tech, lol, I'm just funny.**
+- 🌼 I also write poems, [want to read?](https://www.instagram.com/_fallenverses/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
